@@ -4,9 +4,7 @@ Manav Rupani: 16010121813
 Chinmay Teli: 16010121819
 Vivek Vishwakarma: 16010121825
 Dhruv Goyal: 16010121827
-8 Ball Pool game developed using Python and it's Pygame library.
-
-
+8 Ball Pool game developed using Python and its Pygame library.
 
 
 
@@ -14,7 +12,7 @@ Dhruv Goyal: 16010121827
 
 Clone the repository
 
-make sure Python is installed with the pygame dependencies
+make sure Python is installed with the Pygame dependencies
 
 CD into the repo files
 
