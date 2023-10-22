@@ -1,3 +1,5 @@
+
+
 # -----------------------------------------------------------------------------
 #
 # 8 Ball Pool
@@ -7,6 +9,8 @@
 # Controls - Mouse, the length of Stick is propotional to Force applied
 #
 # -----------------------------------------------------------------------------
+
+
 
 import pygame
 import sys
@@ -22,7 +26,7 @@ display = pygame.display.set_mode((width, outerHeight))
 pygame.display.set_caption("8 Ball Pool")
 clock = pygame.time.Clock()
 
-background = (51, 51, 51)
+background = (50, 51, 51)
 white = (236, 240, 241)
 
 gray = (123, 125, 125)
